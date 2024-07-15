@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
         <div style={styles.container}>
             <div style={styles.content}>
                 <h1>Privacy Policy</h1>
-                <p>Last Updated: [Date]</p>
+               
 
                 <h2>1. Introduction</h2>
                 <p>Welcome to Andhar Bahar (“we”, “our”, “us”). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our Andhar Bahar game app (“App”). By accessing or using our App, you agree to this Privacy Policy. If you do not agree with this Privacy Policy, do not use our App.</p>
