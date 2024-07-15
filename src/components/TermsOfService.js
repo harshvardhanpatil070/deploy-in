@@ -5,7 +5,7 @@ const TermsOfService = () => {
         <div style={styles.container}>
             <div style={styles.content}>
                 <h1>Terms and Service</h1>
-                <p>Last Updated: [Date]</p>
+                
 
                 <h2>1. Introduction</h2>
                 <p>Welcome to Andhar Bahar (“we”, “our”, “us”). These Terms and Service (“Terms”) govern your use of our Andhar Bahar game app (“App”). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use our App.</p>
